@@ -1,0 +1,9 @@
+[submodule "docs/frontend"]
+	path = docs/frontend
+	url = https://github.com/firutest/frontend
+[submodule "docs/backend"]
+	path = docs/backend
+	url = https://github.com/firutest/backend
+[submodule "docs/server-setup"]
+	path = docs/server-setup
+	url = https://github.com/firutest/server-setup
